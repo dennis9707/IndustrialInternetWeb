@@ -1,4 +1,4 @@
-/* 
+/*
 
 TemplateMo 551 Stand Blog
 
@@ -17,7 +17,7 @@ p {
 	margin-bottom: 0px;
 	font-size: 15px;
 	font-weight: 400;
-	color: #7a7a7a;
+	color: black;
 	line-height: 30px;
 }
 a {
@@ -246,7 +246,7 @@ header .navbar {
 }
 .navbar .navbar-toggler {
 	border-color: #fff;
-	background-color: #f48840;	
+	background-color: #f48840;
 	height: 46px;
 	outline: none;
 	border-radius: 0px;
